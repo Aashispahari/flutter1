@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   }
 
   Widget build(BuildContext context) {
-    var questions = ['what is your name', 'where live'];
+    var questions = ['what is your name', 'where '];
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
